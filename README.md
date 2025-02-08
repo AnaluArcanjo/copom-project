@@ -1,6 +1,6 @@
 -- README
 
-# COPOM Automação com Python
+# Análise de Sentimento Copom
 
-### Análise de sentimentos com atas copom
+### Analisando atas Copom
 
